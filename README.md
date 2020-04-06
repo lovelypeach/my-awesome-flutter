@@ -3,6 +3,7 @@
 * [cupertino_icons](https://github.com/flutter/cupertino_icons) - Default icons asset used by Flutter's Cupertino widgets.
 * [flutter_calendar_carousel](https://github.com/dooboolab/flutter_calendar_carousel) - Calendar widget for flutter that is swipeable horizontally. This widget can help you build your own calendar widget highly customizable.
 * [flutter_slidable](https://github.com/letsar/flutter_slidable) - A Flutter implementation of slidable list item with directional slide actions.
+* [flutter_socket_io](https://github.com/WinkMeter/flutter_socket_io) - Flutter Socket IO Plugin, supported Android + iOS.
 * [image_picker](https://pub.dev/packages/image_picker) - A Flutter plugin for iOS and Android for picking images from the image library, and taking new pictures with the camera.
 * [intl](https://github.com/dart-lang/intl) - Internationalization and localization support.
 * [path](https://github.com/dart-lang/path) - A string-based path manipulation library.
