@@ -9,6 +9,7 @@
 * [intl](https://github.com/dart-lang/intl) - Internationalization and localization support.
 * [path](https://github.com/dart-lang/path) - A string-based path manipulation library.
 * [path_provider](https://pub.dev/packages/path_provider) - A Flutter plugin for finding commonly used locations on the filesystem. Supports iOS and Android.
+* [***percent_indicator***](https://pub.dev/packages/percent_indicator) - Flutter percent indicator library.
 * [rxdart](https://github.com/ReactiveX/rxdart) - The Reactive Extensions for Dart.
 * [scoped_model](https://github.com/brianegan/scoped_model) - A Widget that passes a Reactive Model to all of it's children.
 * [sqflite](https://github.com/tekartik/sqflite) - SQLite flutter plugin.
