@@ -4,6 +4,7 @@
 * [***Camera Plugin***](https://pub.dev/packages/camera) - A Flutter plugin for getting information about and controlling the camera on Android and iOS. Supports previewing the camera feed, capturing images, capturing video, and streaming image buffers to dart.
 * [cupertino_icons](https://github.com/flutter/cupertino_icons) - Default icons asset used by Flutter's Cupertino widgets.
 * [***flame***](https://pub.dev/packages/flame) - A minimalist Flutter game engine, provides a nice set of somewhat independent modules you can choose from.
+* [***Flare-Flutter***](https://pub.dev/packages/flare_flutter) - Vector design and runtime animation for Flutter.
 * [***FlutterFire***](https://firebaseopensource.com/projects/firebaseextended/flutterfire/) - FlutterFire is a set of Flutter plugins that enable Flutter apps to use Firebase services.
 * [flutter_calendar_carousel](https://github.com/dooboolab/flutter_calendar_carousel) - Calendar widget for flutter that is swipeable horizontally. This widget can help you build your own calendar widget highly customizable.
 * [***Flutter Geolocator Plugin***](https://pub.dev/packages/geolocator) - Geolocation plugin for Flutter. This plugin provides a cross-platform (iOS, Android) API for generic location (GPS etc.) functions.
