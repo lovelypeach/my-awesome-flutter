@@ -11,7 +11,7 @@
 * [flutter_slidable](https://github.com/letsar/flutter_slidable) - A Flutter implementation of slidable list item with directional slide actions.
 * [flutter_socket_io](https://github.com/WinkMeter/flutter_socket_io) - Flutter Socket IO Plugin, supported Android + iOS.
 * [Google Maps for Flutter](https://pub.dev/packages/google_maps_flutter) - A Flutter plugin for integrating Google Maps in iOS and Android applications.
-* [http](https://pub.dev/packages/http) - A composable, multi-platform, Future-based API for HTTP requests.
+* [***http***](https://pub.dev/packages/http) - A composable, multi-platform, Future-based API for HTTP requests.
 * [image_picker](https://pub.dev/packages/image_picker) - A Flutter plugin for iOS and Android for picking images from the image library, and taking new pictures with the camera.
 * [intl](https://github.com/dart-lang/intl) - Internationalization and localization support.
 * [path](https://github.com/dart-lang/path) - A string-based path manipulation library. All of the path operations you know and love, with solid support for Windows, POSIX (Linux and Mac OS X), and the web.
