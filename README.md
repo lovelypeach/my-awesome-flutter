@@ -12,6 +12,7 @@
 * [Flutter Geolocator Plugin](https://pub.dev/packages/geolocator) - Geolocation plugin for Flutter. This plugin provides a cross-platform (iOS, Android) API for generic location (GPS etc.) functions.
 * [flutter_slidable](https://github.com/letsar/flutter_slidable) - A Flutter implementation of slidable list item with directional slide actions.
 * [flutter_socket_io](https://github.com/WinkMeter/flutter_socket_io) - Flutter Socket IO Plugin, supported Android + iOS.
+* [***fluttertoast***](https://pub.dev/packages/fluttertoast) - Toast Library for Flutter.
 * [Google Maps for Flutter](https://pub.dev/packages/google_maps_flutter) - A Flutter plugin for integrating Google Maps in iOS and Android applications.
 * [***http***](https://pub.dev/packages/http) - A composable, multi-platform, Future-based API for HTTP requests.
 * [image_picker](https://pub.dev/packages/image_picker) - A Flutter plugin for iOS and Android for picking images from the image library, and taking new pictures with the camera.
