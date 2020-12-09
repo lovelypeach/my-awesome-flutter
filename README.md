@@ -2,7 +2,9 @@
 
 * [Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - Completely free for everyone. Its build-in Flutter Dart.
 * [Camera Plugin](https://pub.dev/packages/camera) - A Flutter plugin for getting information about and controlling the camera on Android and iOS. Supports previewing the camera feed, capturing images, capturing video, and streaming image buffers to dart.
+* [***crypto***](https://pub.dev/packages/crypto) - A set of cryptographic hashing functions implemented in pure Dart.
 * [cupertino_icons](https://github.com/flutter/cupertino_icons) - Default icons asset used by Flutter's Cupertino widgets.
+* [***date_format***](https://pub.dev/packages/date_format) - A simple API to format dates.
 * [flame](https://pub.dev/packages/flame) - A minimalist Flutter game engine, provides a nice set of somewhat independent modules you can choose from.
 * [Flare-Flutter](https://pub.dev/packages/flare_flutter) - Vector design and runtime animation for Flutter.
 * [FlutterFire](https://firebaseopensource.com/projects/firebaseextended/flutterfire/) - FlutterFire is a set of Flutter plugins that enable Flutter apps to use Firebase services.
