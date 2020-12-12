@@ -24,6 +24,6 @@
 * [***Percent Indicator***](https://pub.dev/packages/percent_indicator) - Library that allows you to display progress widgets based on percentage, can be Circular or Linear, you can also customize it to your needs.
 * [rxdart](https://github.com/ReactiveX/rxdart) - The Reactive Extensions for Dart.
 * [scoped_model](https://github.com/brianegan/scoped_model) - A Widget that passes a Reactive Model to all of it's children.
-* [sembast.dart](https://pub.dev/packages/sembast) - NoSQL persistent embedded file system document-based database for Dart VM and Flutter with encryption support.
+* [***sembast.dart***](https://pub.dev/packages/sembast) - NoSQL persistent embedded file system document-based database for Dart VM and Flutter with encryption support.
 * [***Shared preferences plugin***](https://pub.dev/packages/shared_preferences) - Flutter plugin for reading and writing simple key-value pairs. Wraps NSUserDefaults on iOS and SharedPreferences on Android.
 * [***sqflite***](https://github.com/tekartik/sqflite) - Flutter plugin for SQLite, a self-contained, high-reliability, embedded, SQL database engine.
