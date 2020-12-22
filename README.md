@@ -8,6 +8,7 @@
 * [flame](https://pub.dev/packages/flame) - A minimalist Flutter game engine, provides a nice set of somewhat independent modules you can choose from.
 * [***Flare-Flutter***](https://pub.dev/packages/flare_flutter) - Vector design and runtime animation for Flutter.
 * [FlutterFire](https://firebaseopensource.com/projects/firebaseextended/flutterfire/) - FlutterFire is a set of Flutter plugins that enable Flutter apps to use Firebase services.
+* [***flutter_app_lock***](https://pub.dev/packages/flutter_app_lock) - A Flutter package for showing a lock screen on app open and app pause.
 * [flutter_calendar_carousel](https://github.com/dooboolab/flutter_calendar_carousel) - Calendar widget for flutter that is swipeable horizontally. This widget can help you build your own calendar widget highly customizable.
 * [Flutter Geolocator Plugin](https://pub.dev/packages/geolocator) - Geolocation plugin for Flutter. This plugin provides a cross-platform (iOS, Android) API for generic location (GPS etc.) functions.
 * [flutter_slidable](https://github.com/letsar/flutter_slidable) - A Flutter implementation of slidable list item with directional slide actions.
