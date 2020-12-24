@@ -10,6 +10,7 @@
 * [FlutterFire](https://firebaseopensource.com/projects/firebaseextended/flutterfire/) - FlutterFire is a set of Flutter plugins that enable Flutter apps to use Firebase services.
 * [***flutter_app_lock***](https://pub.dev/packages/flutter_app_lock) - A Flutter package for showing a lock screen on app open and app pause.
 * [flutter_calendar_carousel](https://github.com/dooboolab/flutter_calendar_carousel) - Calendar widget for flutter that is swipeable horizontally. This widget can help you build your own calendar widget highly customizable.
+* [***flutter_des***](https://pub.dev/packages/flutter_des) - Java, android, ios, get the same result by DES encryption and decryption.
 * [Flutter Geolocator Plugin](https://pub.dev/packages/geolocator) - Geolocation plugin for Flutter. This plugin provides a cross-platform (iOS, Android) API for generic location (GPS etc.) functions.
 * [flutter_slidable](https://github.com/letsar/flutter_slidable) - A Flutter implementation of slidable list item with directional slide actions.
 * [flutter_socket_io](https://github.com/WinkMeter/flutter_socket_io) - Flutter Socket IO Plugin, supported Android + iOS.
