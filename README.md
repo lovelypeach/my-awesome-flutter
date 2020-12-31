@@ -20,6 +20,7 @@
 * [***http***](https://pub.dev/packages/http) - A composable, multi-platform, Future-based API for HTTP requests.
 * [image_picker](https://pub.dev/packages/image_picker) - A Flutter plugin for iOS and Android for picking images from the image library, and taking new pictures with the camera.
 * [intl](https://github.com/dart-lang/intl) - Internationalization and localization support.
+* [***json_serializable***](https://pub.dev/packages/json_serializable) - Automatically generate code for converting to and from JSON by annotating Dart classes.
 * [***Localstorage***](https://pub.dev/packages/localstorage) - Simple json file-based storage for flutter.
 * [***path***](https://pub.dev/packages/path) - A comprehensive, cross-platform path manipulation library for Dart.
 * [***path_provider***](https://pub.dev/packages/path_provider) - Flutter plugin for getting commonly used locations on host platform file systems, such as the temp and app data directories.
