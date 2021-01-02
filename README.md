@@ -5,6 +5,7 @@
 * [***crypto***](https://pub.dev/packages/crypto) - A set of cryptographic hashing functions implemented in pure Dart.
 * [cupertino_icons](https://github.com/flutter/cupertino_icons) - Default icons asset used by Flutter's Cupertino widgets.
 * [***date_format***](https://pub.dev/packages/date_format) - A simple API to format dates.
+* [***DateTimeField***](https://pub.flutter-io.cn/packages/datetime_picker_formfield) - A TextFormField that emits DateTimes and helps show Material, Cupertino, and other style picker dialogs.
 * [flame](https://pub.dev/packages/flame) - A minimalist Flutter game engine, provides a nice set of somewhat independent modules you can choose from.
 * [***Flare-Flutter***](https://pub.dev/packages/flare_flutter) - Vector design and runtime animation for Flutter.
 * [FlutterFire](https://firebaseopensource.com/projects/firebaseextended/flutterfire/) - FlutterFire is a set of Flutter plugins that enable Flutter apps to use Firebase services.
