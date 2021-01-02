@@ -34,4 +34,5 @@
 * [***sqflite***](https://github.com/tekartik/sqflite) - Flutter plugin for SQLite, a self-contained, high-reliability, embedded, SQL database engine.
 * [***Stagehand***](https://pub.dev/packages/stagehand) - A scaffolding generator for your Dart projects. Stagehand helps you get set up!
 * [***test***](https://pub.dev/packages/test) - A full featured library for writing and running Dart tests.
+* [***uuid***](https://pub.flutter-io.cn/packages/uuid) - RFC4122 (v1, v4, v5) UUID Generator and Parser for all Dart platforms (Web, VM, Flutter).
 * [***WebView for Flutter***](https://pub.dev/packages/webview_flutter) - A Flutter plugin that provides a WebView widget on Android and iOS.
