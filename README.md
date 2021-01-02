@@ -19,7 +19,7 @@
 * [***Google Maps for Flutter***](https://pub.dev/packages/google_maps_flutter) - A Flutter plugin for integrating Google Maps in iOS and Android applications.
 * [***http***](https://pub.dev/packages/http) - A composable, multi-platform, Future-based API for HTTP requests.
 * [image_picker](https://pub.dev/packages/image_picker) - A Flutter plugin for iOS and Android for picking images from the image library, and taking new pictures with the camera.
-* [intl](https://github.com/dart-lang/intl) - Internationalization and localization support.
+* [Intl](https://pub.flutter-io.cn/packages/intl) - Contains code to deal with internationalized/localized messages, date and number formatting and parsing, bi-directional text, and other internationalization issues.
 * [***json_serializable***](https://pub.dev/packages/json_serializable) - Automatically generate code for converting to and from JSON by annotating Dart classes.
 * [***Localstorage***](https://pub.dev/packages/localstorage) - Simple json file-based storage for flutter.
 * [***path***](https://pub.dev/packages/path) - A comprehensive, cross-platform path manipulation library for Dart.
