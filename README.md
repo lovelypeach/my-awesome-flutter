@@ -42,6 +42,7 @@
 ## Input
 
 * [datetime_picker_formfield](https://pub.dev/packages/datetime_picker_formfield) - A TextFormField that emits DateTimes and helps show Material, Cupertino, and other style picker dialogs.
+* [flutter_linkify](https://pub.dev/packages/flutter_linkify) - Turns text URLs and emails into clickable inline links in text for Flutter.
 
 ## Internationalization and Localization
 
