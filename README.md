@@ -33,6 +33,7 @@
 ## External Services
 
 * [google_maps_flutter](https://pub.dev/packages/google_maps_flutter) - A Flutter plugin for integrating Google Maps in iOS and Android applications.
+* [google_maps_webservice](https://pub.dev/packages/google_maps_webservice) - Google Maps Web Services [API](https://developers.google.com/maps/web-services).
 
 ## Information Displays
 
@@ -48,6 +49,7 @@
 
 * [date_format](https://pub.dev/packages/date_format) - A simple API to format dates. Provides various constants to build Date format string. Use `formatDate` method to format date according to format string.
 * [intl](https://pub.dev/packages/intl) - Contains code to deal with internationalized/localized messages, date and number formatting and parsing, bi-directional text, and other internationalization issues.
+* [Intl_translation](https://pub.dev/packages/intl_translation) - Contains code to deal with internationalized/localized messages, date and number formatting and parsing, bi-directional text, and other internationalization issues.
 
 ## Layout
 
@@ -75,6 +77,7 @@
 * [image_picker](https://pub.dev/packages/image_picker) - Flutter plugin for selecting images from the Android and iOS image library, and taking new pictures with the camera.
 * [path](https://pub.dev/packages/path) - A string-based path manipulation library. All of the path operations you know and love, with solid support for Windows, POSIX (Linux and Mac OS X), and the web.
 * [path_provider](https://pub.dev/packages/path_provider) - Flutter plugin for getting commonly used locations on host platform file systems, such as the temp and app data directories.
+* [permission_handler](https://pub.dev/packages/permission_handler) - Permission plugin for Flutter. This plugin provides a cross-platform (iOS, Android) API to request and check permissions.
 * [shared_preferences](https://pub.dev/packages/shared_preferences) - Flutter plugin for reading and writing simple key-value pairs. Wraps NSUserDefaults on iOS and SharedPreferences on Android.
 * [url_launcher](https://pub.dev/packages/url_launcher) - Flutter plugin for launching a URL on Android and iOS. Supports web, phone, SMS, and email schemes.
 
