@@ -74,6 +74,7 @@
 * [path](https://pub.dev/packages/path) - A string-based path manipulation library. All of the path operations you know and love, with solid support for Windows, POSIX (Linux and Mac OS X), and the web.
 * [path_provider](https://pub.dev/packages/path_provider) - Flutter plugin for getting commonly used locations on host platform file systems, such as the temp and app data directories.
 * [shared_preferences](https://pub.dev/packages/shared_preferences) - Flutter plugin for reading and writing simple key-value pairs. Wraps NSUserDefaults on iOS and SharedPreferences on Android.
+* [url_launcher](https://pub.dev/packages/url_launcher) - Flutter plugin for launching a URL on Android and iOS. Supports web, phone, SMS, and email schemes.
 
 ## Testing
 
