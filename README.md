@@ -72,6 +72,7 @@
 * [camera](https://pub.dev/packages/camera) - A Flutter plugin for getting information about and controlling the camera on Android and iOS. Supports previewing the camera feed, capturing images, capturing video, and streaming image buffers to dart.
 * [contact_picker](https://pub.dev/packages/contact_picker) - A Flutter plugin for picking a contact from the address book.
 * [geolocator](https://pub.dev/packages/geolocator) - Geolocation plugin for Flutter. This plugin provides a cross-platform (iOS, Android) API for generic location (GPS etc.) functions.
+* [image_picker](https://pub.dev/packages/image_picker) - Flutter plugin for selecting images from the Android and iOS image library, and taking new pictures with the camera.
 * [path](https://pub.dev/packages/path) - A string-based path manipulation library. All of the path operations you know and love, with solid support for Windows, POSIX (Linux and Mac OS X), and the web.
 * [path_provider](https://pub.dev/packages/path_provider) - Flutter plugin for getting commonly used locations on host platform file systems, such as the temp and app data directories.
 * [shared_preferences](https://pub.dev/packages/shared_preferences) - Flutter plugin for reading and writing simple key-value pairs. Wraps NSUserDefaults on iOS and SharedPreferences on Android.
