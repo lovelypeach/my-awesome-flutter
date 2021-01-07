@@ -54,7 +54,6 @@
 ## Layout
 
 * [flutter_app_lock](https://pub.dev/packages/flutter_app_lock) - A Flutter package for showing a lock screen on app open and app pause.
-* [webview_flutter](https://pub.dev/packages/webview_flutter) - A Flutter plugin that provides a WebView widget on Android and iOS.
 
 ## Networking
 
@@ -80,6 +79,7 @@
 * [permission_handler](https://pub.dev/packages/permission_handler) - Permission plugin for Flutter. This plugin provides a cross-platform (iOS, Android) API to request and check permissions.
 * [shared_preferences](https://pub.dev/packages/shared_preferences) - Flutter plugin for reading and writing simple key-value pairs. Wraps NSUserDefaults on iOS and SharedPreferences on Android.
 * [url_launcher](https://pub.dev/packages/url_launcher) - Flutter plugin for launching a URL on Android and iOS. Supports web, phone, SMS, and email schemes.
+* [webview_flutter](https://pub.dev/packages/webview_flutter) - A Flutter plugin that provides a WebView widget on Android and iOS.
 
 ## Testing
 
