@@ -12,8 +12,10 @@
 - [Networking](#networking)
 - [Security](#security)
 - [Serialization](#serialization)
+- [State Management](#state-management)
 - [System Services](#system-services)
 - [Testing](#testing)
+- [Touch Interactions](#touch-interactions)
 - [Utilities](#utilities)
 - [UUID](#uuid)
 
@@ -23,6 +25,7 @@
 
 ## Assets, Images, and Icons
 
+* [cupertino_icons](https://pub.dev/packages/cupertino_icons) - Default icons asset for Cupertino widgets based on Apple styled icons.
 * [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter) - The Font Awesome Icon pack available as Flutter Icons. Provides 1500 additional icons to use in your apps.
 
 ## Database
@@ -48,6 +51,7 @@
 ## Input
 
 * [datetime_picker_formfield](https://pub.dev/packages/datetime_picker_formfield) - A TextFormField that emits DateTimes and helps show Material, Cupertino, and other style picker dialogs.
+* [flutter_calendar_carousel](https://pub.dev/packages/flutter_calendar_carousel) - Calendar widget for flutter that is swipeable. This widget can help you build customizable calendar with scrollable actions.
 * [flutter_linkify](https://pub.dev/packages/flutter_linkify) - Turns text URLs and emails into clickable inline links in text for Flutter.
 
 ## Internationalization and Localization
@@ -73,6 +77,10 @@
 
 * [json_serializable](https://pub.dev/packages/json_serializable) - Automatically generate code for converting to and from JSON by annotating Dart classes.
 
+## State Management
+
+* [scoped_model](https://pub.dev/packages/scoped_model) - A Widget that passes a Reactive Model to all of it's children.
+
 ## System Services
 
 * [camera](https://pub.dev/packages/camera) - A Flutter plugin for getting information about and controlling the camera on Android and iOS. Supports previewing the camera feed, capturing images, capturing video, and streaming image buffers to dart.
@@ -89,6 +97,10 @@
 ## Testing
 
 * [test](https://pub.dev/packages/test) - A full featured library for writing and running Dart tests.
+
+## Touch Interactions
+
+* [flutter_slidable](https://pub.dev/packages/flutter_slidable) - A Flutter implementation of slidable list item with directional slide actions that can be dismissed.
 
 ## Utilities
 
