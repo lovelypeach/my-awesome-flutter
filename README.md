@@ -1,6 +1,7 @@
 # my-awesome-flutter
 
 - [Animation and Motion](#animation-and-motion)
+- [Assets, Images, and Icons](#assets-images-and-icons)
 - [Database](#database)
 - [Dialogs, Alerts, and Panels](#dialogs-alerts-and-panels)
 - [External Services](#external-services)
@@ -19,6 +20,10 @@
 ## Animation and Motion
 
 * [flare_flutter](https://pub.dev/packages/flare_flutter) - Vector design and runtime animation for Flutter.
+
+## Assets, Images, and Icons
+
+* [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter) - The Font Awesome Icon pack available as Flutter Icons. Provides 1500 additional icons to use in your apps.
 
 ## Database
 
