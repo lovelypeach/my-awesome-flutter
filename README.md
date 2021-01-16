@@ -66,6 +66,7 @@
 
 ## Networking
 
+* [flutter_socket_io](https://pub.dev/packages/flutter_socket_io) - Flutter Socket IO Plugin.
 * [http](https://pub.dev/packages/http) - A composable, multi-platform, Future-based API for HTTP requests.
 
 ## Security
