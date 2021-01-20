@@ -80,6 +80,7 @@
 
 ## State Management
 
+* [provider](https://pub.dev/packages/provider) - A wrapper around InheritedWidget to make them easier to use and more reusable.
 * [scoped_model](https://pub.dev/packages/scoped_model) - A Widget that passes a Reactive Model to all of it's children.
 
 ## System Services
